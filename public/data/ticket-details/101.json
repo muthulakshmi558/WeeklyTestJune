@@ -1,0 +1,18 @@
+{
+  "id": 101,
+  "subject": "Login issue",
+  "status": "open",
+  "customer": "john@example.com",
+  "messages": [
+    {
+      "sender": "customer",
+      "text": "I can't log in to my account.",
+      "time": "2025-06-10 09:15"
+    },
+    {
+      "sender": "agent",
+      "text": "Please reset your password using the forgot link.",
+      "time": "2025-06-10 10:00"
+    }
+  ]
+}

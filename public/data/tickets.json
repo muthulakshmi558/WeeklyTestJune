@@ -1,0 +1,16 @@
+[
+  {
+    "id": 101,
+    "subject": "Login issue",
+    "status": "open",
+    "createdAt": "2025-06-10",
+    "customer": "john@example.com"
+  },
+  {
+    "id": 102,
+    "subject": "Payment failed",
+    "status": "resolved",
+    "createdAt": "2025-06-11",
+    "customer": "lisa@example.com"
+  }
+]

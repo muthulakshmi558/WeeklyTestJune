@@ -1,0 +1,121 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "title": "Sea Breeze Villa",
+      "location": "Goa, India",
+      "price": 3200,
+      "thumbnail": "https://source.unsplash.com/featured/?villa",
+      "images": [
+        "https://source.unsplash.com/featured/?villa,1",
+        "https://source.unsplash.com/featured/?villa,2"
+      ],
+      "description": "Enjoy a luxurious stay near the beach with private pool access and a garden view.",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "title": "Hilltop Cottage",
+      "location": "Ooty, Tamil Nadu",
+      "price": 2100,
+      "thumbnail": "https://source.unsplash.com/featured/?cottage",
+      "images": [
+        "https://source.unsplash.com/featured/?cottage,1",
+        "https://source.unsplash.com/featured/?cottage,2"
+      ],
+      "description": "A peaceful cottage nestled in the Nilgiris, perfect for romantic getaways.",
+      "rating": 4.6
+    },
+    {
+      "id": 3,
+      "title": "Urban Apartment",
+      "location": "Bangalore, India",
+      "price": 1800,
+      "thumbnail": "https://source.unsplash.com/featured/?apartment",
+      "images": [
+        "https://source.unsplash.com/featured/?apartment,1",
+        "https://source.unsplash.com/featured/?apartment,2"
+      ],
+      "description": "Modern apartment with Wi-Fi, air conditioning, and workspace. Ideal for digital nomads.",
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "title": "Desert Retreat",
+      "location": "Jaisalmer, Rajasthan",
+      "price": 2500,
+      "thumbnail": "https://source.unsplash.com/featured/?desert,home",
+      "images": [
+        "https://source.unsplash.com/featured/?desert,home,1",
+        "https://source.unsplash.com/featured/?desert,home,2"
+      ],
+      "description": "Rustic retreat in the heart of the Thar desert with camel rides and folk music.",
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "title": "Lake View House",
+      "location": "Nainital, Uttarakhand",
+      "price": 2700,
+      "thumbnail": "https://source.unsplash.com/featured/?lakehouse",
+      "images": [
+        "https://source.unsplash.com/featured/?lakehouse,1",
+        "https://source.unsplash.com/featured/?lakehouse,2"
+      ],
+      "description": "Scenic views of Naini Lake from the balcony, cozy interiors, and fireplace.",
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "title": "Coastal Studio",
+      "location": "Pondicherry, India",
+      "price": 1900,
+      "thumbnail": "https://source.unsplash.com/featured/?coast,studio",
+      "images": [
+        "https://source.unsplash.com/featured/?coast,studio,1",
+        "https://source.unsplash.com/featured/?coast,studio,2"
+      ],
+      "description": "Artistic studio room with French colonial vibe, walkable distance to beach cafes.",
+      "rating": 4.3
+    },
+    {
+      "id": 7,
+      "title": "Forest Cabin",
+      "location": "Munnar, Kerala",
+      "price": 2200,
+      "thumbnail": "https://source.unsplash.com/featured/?forest,cabin",
+      "images": [
+        "https://source.unsplash.com/featured/?forest,cabin,1",
+        "https://source.unsplash.com/featured/?forest,cabin,2"
+      ],
+      "description": "Surrounded by tea plantations, this cabin offers unmatched tranquility and nature sounds.",
+      "rating": 4.9
+    },
+    {
+      "id": 8,
+      "title": "City Loft",
+      "location": "Mumbai, India",
+      "price": 3500,
+      "thumbnail": "https://source.unsplash.com/featured/?loft",
+      "images": [
+        "https://source.unsplash.com/featured/?loft,1",
+        "https://source.unsplash.com/featured/?loft,2"
+      ],
+      "description": "Stylish loft in the heart of the city with skyline views, smart appliances, and security.",
+      "rating": 4.2
+    },
+    {
+      "id": 9,
+      "title": "Backwater Bungalow",
+      "location": "Alleppey, Kerala",
+      "price": 3000,
+      "thumbnail": "https://source.unsplash.com/featured/?backwater",
+      "images": [
+        "https://source.unsplash.com/featured/?backwater,1",
+        "https://source.unsplash.com/featured/?backwater,2"
+      ],
+      "description": "Traditional bungalow floating in the backwaters, includes boat rides and meals.",
+      "rating": 4.85
+    }
+  ]
+}
